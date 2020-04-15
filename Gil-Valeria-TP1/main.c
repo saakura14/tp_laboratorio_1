@@ -3,18 +3,6 @@
 #include "Gil.h"
 
 
-
-/** \brief
- *
- * \param
- * \param
- * \return
- *
- */
-
-
-
-
 int main(void)
 {
     int opcion;
@@ -66,7 +54,6 @@ int main(void)
             else
             {
                 printf("Error, ingrese un numero\n\n");
-
 
             }
 

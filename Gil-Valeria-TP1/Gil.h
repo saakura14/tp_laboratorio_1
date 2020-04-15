@@ -21,16 +21,13 @@ int calculoResta(int num1 , int num2);
  * \param  Ingresa primer numero.
  * \param  Ingresa el segundo numero.
  * \return retorna el resultado de la resta realizada.
- *
  */
 
 int calculoMultiplicacion(int num1 , int num2);
-/** \brief
- *
+/** \brief Multiplica los numeros ingresados.
  * \param Ingresa primer numero.
  * \param Ingresa el segundo numero.
  * \return retorna el resultado de la multiplicacion resalizada.
- *
  */
 
 float calculoDivision(int num1 ,int num2);
@@ -38,7 +35,6 @@ float calculoDivision(int num1 ,int num2);
  * \param Ingresa primer numero.
  * \param Ingresa el segundo numero.
  * \return Retorna el resultado de la division.
- *
  */
 
 int calculoFactorial(int numero);
@@ -46,7 +42,6 @@ int calculoFactorial(int numero);
  * \param Ingresa primer numero.
  * \param Ingresa el segundo numero.
  * \return restorna el factorial de cada numero ingresado.
- *
  */
 
 
