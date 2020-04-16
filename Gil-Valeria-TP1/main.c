@@ -69,9 +69,9 @@ int main(void)
             printf("\nEl resultado de %d + %d es %d", num1, num2, ecuacionSuma);
             printf("\nEl resultado de %d - %d es %d", num1, num2, ecuacionResta);
             printf("\nEl resultado de %d * %d es %d",num1, num2, ecuacionMultiplicacion);
-            printf("\nEl resultado de la division es %.2f ", ecuacionDivision);
-            printf("\nEl numero factorial del primer numero es %d", ecuacionFactorial1);
-            printf("\nEl numero factorial del segundo numero es %d\n\n", ecuacionFactorial2);
+            printf("\nEl resultado de la division %d / %d es %.2f ", num1,num2, ecuacionDivision);
+            printf("\nEl numero factorial de A es %d", ecuacionFactorial1);
+            printf("\nEl numero factorial de B es %d\n\n", ecuacionFactorial2);
             break;
         case 5:
             break;
