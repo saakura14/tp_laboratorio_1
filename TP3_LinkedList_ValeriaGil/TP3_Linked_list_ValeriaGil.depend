@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1591840567 source:c:\users\valeria\desktop\tp3_laboratorio\tp3_test\tp3_linkedlist_valeriagil\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"utn.h"
+	<string.h>
+
+1591811904 c:\users\valeria\desktop\tp3_laboratorio\tp3_test\tp3_linkedlist_valeriagil\employee.h
+
+1591811905 c:\users\valeria\desktop\tp3_laboratorio\tp3_test\tp3_linkedlist_valeriagil\utn.h
+
+1591814106 source:c:\users\valeria\desktop\tp3_laboratorio\tp3_test\tp3_linkedlist_valeriagil\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
