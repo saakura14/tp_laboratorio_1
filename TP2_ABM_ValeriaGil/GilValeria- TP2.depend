@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589567271 source:c:\users\valeria\desktop\gilvaleria- tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"Funciones.h"
+
+1589566392 c:\users\valeria\desktop\gilvaleria- tp2\arrayemployees.h
+
+1589486473 c:\users\valeria\desktop\gilvaleria- tp2\funciones.h
+
+1589564847 source:c:\users\valeria\desktop\gilvaleria- tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Funciones.h"
+
+1589566762 source:c:\users\valeria\desktop\gilvaleria- tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ArrayEmployees.h"
+	"Funciones.h"
+
