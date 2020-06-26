@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1591813527 source:c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1591813866 c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\linkedlist.h
+
+1591811904 c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\employee.h
+
+1533133022 c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\parser.h
+
+1591811905 c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\utn.h
+
+1591840567 source:c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"utn.h"
+	<string.h>
+
+1591814804 source:c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1591811904 c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\controller.h
+	"Employee.h"
+
+1591811987 source:c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1591814106 source:c:\users\valeria\desktop\facultad\tp3_linkedlist_valeriagil\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1592876932 source:c:\users\valeria\desktop\tp4_gil_valeria\likedlist_eclipse_v9\likedlist\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1593022748 c:\users\valeria\desktop\tp4_gil_valeria\likedlist_eclipse_v9\likedlist\inc\linkedlist.h
+
+1591813527 source:c:\users\valeria\desktop\facultad\linkedlist_valeriagil\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1591813866 c:\users\valeria\desktop\facultad\linkedlist_valeriagil\linkedlist.h
+
+1591811904 c:\users\valeria\desktop\facultad\linkedlist_valeriagil\employee.h
+
+1533133022 c:\users\valeria\desktop\facultad\linkedlist_valeriagil\parser.h
+
+1591811905 c:\users\valeria\desktop\facultad\linkedlist_valeriagil\utn.h
+
+1593022891 source:c:\users\valeria\desktop\facultad\linkedlist_valeriagil\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	"utn.h"
+	<string.h>
+
+1591811987 source:c:\users\valeria\desktop\facultad\linkedlist_valeriagil\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1591814106 source:c:\users\valeria\desktop\facultad\linkedlist_valeriagil\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
